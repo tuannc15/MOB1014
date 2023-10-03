@@ -15,7 +15,7 @@ public class Slide12 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Slide 1.2");
+        System.out.println("Bài giảng 21");
     }
     
 }
